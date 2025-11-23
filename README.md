@@ -168,7 +168,7 @@ Ollama for easy local LLM management
 
 # 📞 Support
 
-- 🐛 **Report Bugs**: [Create an Issue](https://github.com/porag188/rag-open-source/issues)
-- 💡 **Request Features**: [Open Feature Request](https://github.com/porag188/rag-open-source/issues)
-- 💬 **Get Help**: [Join Discussions](https://github.com/porag188/rag-open-source/discussions)
-- ❓ **FAQ**: Check our [Discussions Q&A](https://github.com/porag188/rag-open-source/discussions/categories/q-a)
+- 🐛 **Report Bugs**: [Create an Issue](https://github.com/OpenRAG-Labs/ollama-rag-chatbot/issues)
+- 💡 **Request Features**: [Open Feature Request](https://github.com/OpenRAG-Labs/ollama-rag-chatbot/issues)
+- 💬 **Get Help**: [Join Discussions](https://github.com/OpenRAG-Labs/ollama-rag-chatbot/discussions)
+- ❓ **FAQ**: Check our [Discussions Q&A](https://github.com/OpenRAG-Labs/ollama-rag-chatbot/discussions/categories/q-a)

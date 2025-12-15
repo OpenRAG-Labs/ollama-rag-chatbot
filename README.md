@@ -172,3 +172,6 @@ Ollama for easy local LLM management
 - 💡 **Request Features**: [Open Feature Request](https://github.com/OpenRAG-Labs/ollama-rag-chatbot/issues)
 - 💬 **Get Help**: [Join Discussions](https://github.com/OpenRAG-Labs/ollama-rag-chatbot/discussions)
 - ❓ **FAQ**: Check our [Discussions Q&A](https://github.com/OpenRAG-Labs/ollama-rag-chatbot/discussions/categories/q-a)
+
+
+

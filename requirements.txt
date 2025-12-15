@@ -4,7 +4,7 @@ langchain
 langchain-community
 langchain-core
 langchain-ollama
-qdrant-client #this package use for vector db
+qdrant-client 
 httpx
 requests
 python-dotenv
